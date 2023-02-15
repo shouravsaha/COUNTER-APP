@@ -105,3 +105,7 @@ input{
     color: white;
     transition: 0.25s;
 }
+
+#value {
+    font-size: 5rem;
+}
